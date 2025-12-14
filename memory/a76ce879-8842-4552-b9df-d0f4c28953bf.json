@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "Hallo",
+    "timestamp": "2025-11-09T11:00:02.646408"
+  },
+  {
+    "role": "assistant",
+    "content": "Moin. Wie kann ich helfen?",
+    "timestamp": "2025-11-09T11:00:02.646418"
+  },
+  {
+    "role": "user",
+    "content": "was los",
+    "timestamp": "2025-11-09T11:01:57.276252"
+  },
+  {
+    "role": "assistant",
+    "content": "Nicht viel, gerade bereit, hier Fragen zu beantworten. Was interessiert dich?",
+    "timestamp": "2025-11-09T11:01:57.276265"
+  },
+  {
+    "role": "user",
+    "content": "ich hei\u00dfe r\u00fcdiger",
+    "timestamp": "2025-11-09T11:02:06.096140"
+  },
+  {
+    "role": "assistant",
+    "content": "Moin R\u00fcdiger. Was f\u00fchrt dich auf meine Seite?",
+    "timestamp": "2025-11-09T11:02:06.096148"
+  },
+  {
+    "role": "user",
+    "content": "wie hei\u00dfe ich",
+    "timestamp": "2025-11-09T11:02:15.168310"
+  },
+  {
+    "role": "assistant",
+    "content": "Du hast dich als R\u00fcdiger vorgestellt. Was m\u00f6chtest du sonst noch wissen oder besprechen?",
+    "timestamp": "2025-11-09T11:02:15.168340"
+  }
+]
